@@ -6,7 +6,7 @@
   <link href="/rcblogpublic/atom.xml" rel="self"/>
   
   <link href="https://societyforartisticresearch.github.io/rcblogpublic/"/>
-  <updated>2023-01-26T08:30:25.986Z</updated>
+  <updated>2025-06-16T13:42:16.851Z</updated>
   <id>https://societyforartisticresearch.github.io/rcblogpublic/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>trash functionality</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2025/06/16/trash-functionality/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2025/06/16/trash-functionality/</id>
+    <published>2025-06-16T13:39:05.000Z</published>
+    <updated>2025-06-16T13:42:16.851Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have implemented a new “trash” feature to prevent deleting the wrong page or exposition.<br>If you delete an exposition or page by accident you can restore it from the Trash, up until 30 days after deleting it. For expositions, you can find this trashcan under “trash” in your profile.<br>For pages, tools and popovers, you can find it in the editors under “edit” menu.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have implemented a new “trash” feature to prevent deleting the wrong page or exposition.&lt;br&gt;If you delete an exposition or page by
+        
+      
+    
+    </summary>
+    
+    
+      <category term="trash, editor, safety, backup, undo" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/trash-editor-safety-backup-undo/"/>
+    
+  </entry>
   
   <entry>
     <title>Recent improvements</title>
@@ -480,6 +506,32 @@
   </entry>
   
   <entry>
+    <title>Editor Redesign</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/Editor-Redesign/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/Editor-Redesign/</id>
+    <published>2018-08-10T22:52:02.000Z</published>
+    <updated>2022-04-11T07:45:42.969Z</updated>
+    
+    <content type="html"><![CDATA[<p>One of the main developments this year has been the redesign of the workspace editor.  We reorganized settings and functionalities and created a more intuitive and cleaner looking layout.  It is possible to sort and search media files in the panel on the right hand side.  This panel can also be collapsed in order to make workspace presentation more similar to final presentation of the exposition.  There are now links to guide and the video tutorials in the editor as well as tool tips.  The tool history is also back and there is a new settings called “Show tool borders”, which controls the display of outlines of tools.  This makes it easier to locate empty tools. </p><p><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/redesign.png" alt="Editor redesign"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;One of the main developments this year has been the redesign of the workspace editor.  We reorganized settings and functionalities and
+        
+      
+    
+    </summary>
+    
+    
+      <category term="editor" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/editor/"/>
+    
+  </entry>
+  
+  <entry>
     <title>General Data Protection Regulation (GDPR) adjustments</title>
     <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/GDPR/"/>
     <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/GDPR/</id>
@@ -508,32 +560,6 @@
   </entry>
   
   <entry>
-    <title>Editor Redesign</title>
-    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/Editor-Redesign/"/>
-    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/Editor-Redesign/</id>
-    <published>2018-08-10T22:52:02.000Z</published>
-    <updated>2022-04-11T07:45:42.969Z</updated>
-    
-    <content type="html"><![CDATA[<p>One of the main developments this year has been the redesign of the workspace editor.  We reorganized settings and functionalities and created a more intuitive and cleaner looking layout.  It is possible to sort and search media files in the panel on the right hand side.  This panel can also be collapsed in order to make workspace presentation more similar to final presentation of the exposition.  There are now links to guide and the video tutorials in the editor as well as tool tips.  The tool history is also back and there is a new settings called “Show tool borders”, which controls the display of outlines of tools.  This makes it easier to locate empty tools. </p><p><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/redesign.png" alt="Editor redesign"></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;One of the main developments this year has been the redesign of the workspace editor.  We reorganized settings and functionalities and
-        
-      
-    
-    </summary>
-    
-    
-      <category term="editor" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/editor/"/>
-    
-  </entry>
-  
-  <entry>
     <title>JAR Issue 0 and 1 migration</title>
     <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/Jar0-1/"/>
     <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/Jar0-1/</id>
@@ -558,32 +584,6 @@
       <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
     
       <category term="JAR" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/JAR/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SAR on github</title>
-    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/"/>
-    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/</id>
-    <published>2018-08-05T10:21:30.000Z</published>
-    <updated>2022-04-11T07:45:42.970Z</updated>
-    
-    <content type="html"><![CDATA[<p>We have a new github account that contains source code related the RC (including this blog): <a href="https://github.com/SocietyForArtisticResearch">https://github.com/SocietyForArtisticResearch</a>. We will soon move the text-based editor to this account as well.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;We have a new github account that contains source code related the RC (including this blog): &lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
     
   </entry>
   
